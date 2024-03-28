@@ -1,1 +1,1 @@
-# Code-A-Thon
+This is a README file for my GitHub Automation by Kush Trivedi.
